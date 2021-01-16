@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B0EA45F2-E83A-4411-A2C6-9B0974F11C47}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OceaniaVoyagers/admin/ActivityFAQ.aspx">
+    <Files>
+      <File FileName="OceaniaVoyagers/admin/ActivityFAQ.aspx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TravelSolution" expanded="True">
+            <Node name="OceaniaVoyagers" expanded="True">
+              <Node name="admin" expanded="True">
+                <Node name="ActivityFAQ.aspx" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OceaniaVoyagers PreferredExecutionTarget="/Applications/Opera.app" />
+</Properties>
